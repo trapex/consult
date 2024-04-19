@@ -53,6 +53,7 @@
 /* design system */
 :root {
   --white: #ffffff;
+  --black: #000000;
   
   --gray-10: #fafbfb;
   --gray-20: #f5f6f7;
@@ -75,6 +76,9 @@
   --blue-700: #042e46;
   --blue-800: #032436;
   --blue-900: #031b2a;
+
+  --blue--bright: #4bb5ee;
+  --blue--light: #ceeeff;
 }
 
 @font-face {

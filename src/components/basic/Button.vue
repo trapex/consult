@@ -27,6 +27,7 @@ const props = defineProps({
     font-size: 16px;
 }
 .button-white {
+  background-color: var(--white);
     color: var(--blue-500);
     border: 2px solid var(--gray-30);
 }
